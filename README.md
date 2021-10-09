@@ -7,7 +7,7 @@ The website for Hexo.
 
 ## Getting started
 
-Install dependencies:
+Install dependencies:11
 
 ``` bash
 $ git clone https://github.com/hexojs/site.git
